@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-kitsu",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Kitsu MCP — anime + manga catalogue (JSON:API).",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "kitsu",
     "gatewaySlug": "kitsu",
-    "sourceHash": "v1-6ca8754ffdf797a24c0ab4454e79a2e9d1acb0e60d66bf0f4b5b350d74038e95",
-    "sourceCommit": "5c89d6abb778d45da5d92002eb251978622bedf9"
+    "sourceHash": "v1-9e1738943d8651557963d164f93b9b31a2cb003b33d5110842ae5b11e025f840",
+    "sourceCommit": "236b0a46d91f343fe094da9f499c378e88f78312"
   }
 }
